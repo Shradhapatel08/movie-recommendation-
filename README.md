@@ -24,7 +24,7 @@ pip install numpy pandas scikit-learn jupyter
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yash-soni-23/movie_recommendation
+git clone https://github.com/shradhapatel08/movie_recommendation
 ```
 
 2. Navigate to the project directory:
